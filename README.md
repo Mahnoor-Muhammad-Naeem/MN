@@ -1,4 +1,3 @@
-## Hi there 👋
 ![logo](https://github.com/Mahnoor-Muhammad-Naeem/Mahnoor-Muhammad-Naeem/blob/main/Report-Writing.jpg)
 <h1 align="center">Hi 👋, I'm Mahnoor Muhammad Naeem</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
