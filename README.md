@@ -112,3 +112,10 @@ end_of_line = lf
 charset = utf-8
 trim_trailing_whitespace = true
 insert_final_newline = true
+
+
+* text=auto eol=lf
+*.pdf binary
+*.ai binary
+*.psd binary
+Vendor/* linguist-vendored
