@@ -10,7 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/mahnoor" target="blank"><img src="https://img.shields.io/twitter/follow/mahnoor?logo=twitter&style=for-the-badge" alt="mahnoor" /></a> </p>
 
-- 🌱 **I’m currently learning React and focusing on: State Management & Component lifecycle**
+- 🌱 **I’m currently learning React.js
+- I and focusing on: State Management & Component lifecycle**
 
 - 🤝 I’m looking for help with **performance optimization**
 
